@@ -641,6 +641,7 @@ i.card__svg-icon {
   left: 8%;
   top: 8%;
 }
+
 @media (max-width: 56.25em) {
   .card {
     height: auto;
@@ -674,6 +675,10 @@ i.card__svg-icon {
   }
   .card__box {
     text-align: center;
+  }
+
+  .card__description {
+    margin-bottom: 3.5em;
   }
 }
 
