@@ -1067,3 +1067,36 @@ i.card__svg-icon {
     margin-right: 2em;
   }
 }
+
+@media (max-width: 30.25em) {
+  .company__logo--1 {
+    width: 4em;
+  }
+
+  .company__logo--2 {
+    width: 2em;
+    align-self: center;
+    padding-bottom: 15px;
+    margin-right: 2em;
+  }
+
+  .company__logo--3 {
+    width: 4em;
+    align-self: center;
+    padding-bottom: 10px;
+  }
+
+  .company__logo--4 {
+    filter: brightness(0) invert(1);
+    width: 4em;
+    align-self: center;
+    padding-bottom: 5px;
+  }
+
+  .company__logo--5 {
+    width: 4em;
+    align-self: center;
+    padding-bottom: 7px;
+    margin-right: 2em;
+  }
+}
